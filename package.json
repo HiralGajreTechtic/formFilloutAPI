@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon ./index.ts"
+    "start": "node ./index.ts"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
